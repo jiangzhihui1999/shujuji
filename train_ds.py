@@ -13,7 +13,7 @@ import torch
 import torch.backends.cudnn as cudnn
 from torch.utils.data import DataLoader
 
-from visdom import Visdom
+# from visdom import Visdom
 
 from dataset.dataset import Dataset
 
